@@ -35,7 +35,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📈 My github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgasanov&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgasanov&layout=compact&theme=tokyonight&card_width=303)](https://github.com/anuraghazra/github-readme-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulgasanov&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raulgasanov&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
