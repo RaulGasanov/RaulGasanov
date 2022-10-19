@@ -3,7 +3,7 @@
   <img align="left" alt="Raul's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://t.me/raulgasanov">
-  <img align="left" alt="Raul's Telegram" width="22px" src="https://raw.githubusercontent.com/gist/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg" />
+  <img align="left" alt="Raul's Telegram" width="22px" src="https://img.icons8.com/color/2x/telegram-app.png" />
 </a>
 <a href="https://www.linkedin.com/in/raul-gasanov-692267251/">
   <img align="left" alt="Raul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
