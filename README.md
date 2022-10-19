@@ -14,7 +14,7 @@
 Hi, I'm Raul Gasanov, a passionate self-taught ios & web developer and a freelance software engineer from Russia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="350" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="340" />
   
 - 💼 any freelance work? do reach, [email](mailto:raull.gasanovv@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
