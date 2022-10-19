@@ -2,9 +2,6 @@
 <a href="https://www.instagram.com/rafaell_raul/">
   <img align="left" alt="Raul's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Raul's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://t.me/raulgasanov">
   <img align="left" alt="Raul's Telegram" width="22px" src="https://raw.githubusercontent.com/gist/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg" />
 </a>
@@ -35,7 +32,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📈 My github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgasanov&layout=compact&theme=tokyonight&card_width=303)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgasanov&layout=compact&theme=tokyonight&border_color=434d58)](https://github.com/anuraghazra/github-readme-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulgasanov&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raulgasanov&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
