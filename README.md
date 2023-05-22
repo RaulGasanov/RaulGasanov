@@ -25,9 +25,10 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"></code>
 <br/>
 
 📈 My github stats
