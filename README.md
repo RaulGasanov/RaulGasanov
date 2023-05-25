@@ -8,7 +8,8 @@
 <a href="https://www.linkedin.com/in/raul-gasanov-692267251/">
   <img align="left" alt="Raul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br/>
+<br/>
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
 
 Hi, I'm Raul Gasanov, a passionate self-taught ios & web developer and a freelance software engineer from Russia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
