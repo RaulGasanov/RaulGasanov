@@ -6,7 +6,7 @@
   <img align="left" alt="Raul's Telegram" width="22px" src="https://img.icons8.com/color/2x/telegram-app.png" />
 </a>
 <a href="https://www.linkedin.com/in/raul-gasanov-692267251/">
-  <img align="left" alt="Raul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Raul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 <br/>
 <br/>
