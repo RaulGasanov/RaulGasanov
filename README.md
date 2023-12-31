@@ -34,7 +34,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📈 My github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgasanov&layout=compact&theme=tokyonight&border_color=434d58)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgasanov&layout=compact&theme=tokyonight&border_color=434d58)
 
-[![Raul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raul_Gasanov)](https://github.com/anuraghazra/github-readme-stats)
+![Raul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raul_Gasanov)
 
