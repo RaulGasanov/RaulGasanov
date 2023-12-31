@@ -36,5 +36,5 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgasanov&layout=compact&theme=tokyonight&border_color=434d58)
 
-![Raul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RaulGasanov)
+<!-- ![Raul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RaulGasanov) -->
 
