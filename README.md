@@ -1,11 +1,11 @@
 ### Hey there 👋
-<a href="https://www.instagram.com/rafaell_raul/">
+<a href="https://www.instagram.com/raull.gasanovv/">
   <img align="left" alt="Raul's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://t.me/raulgasanov">
   <img align="left" alt="Raul's Telegram" width="22px" src="https://img.icons8.com/color/2x/telegram-app.png" />
 </a>
-<a href="https://www.linkedin.com/in/raul-gasanov-692267251/">
+<a href="https://www.linkedin.com/in/raul-gasanov/">
   <img align="left" alt="Raul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 <br/>
